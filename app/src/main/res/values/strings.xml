@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Buho Suite</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+
+    <string name="register_title">Registro - Buho Suite</string>
+    <string name="hint_full_name">Nombre completo</string>
+    <string name="hint_dni">DNI</string>
+    <string name="hint_phone">Número de celular</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_register">Crear cuenta</string>
+
+</resources>
