@@ -103,7 +103,7 @@
         android:id="@+id/ivFooter"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
+        android:layout_marginBottom="4dp"
         android:adjustViewBounds="true"
         android:contentDescription="Imagen decorativa inferior"
         android:scaleType="fitCenter"
