@@ -10,5 +10,6 @@
     <string name="hint_email">Correo electrónico</string>
     <string name="hint_password">Contraseña</string>
     <string name="btn_register">Crear cuenta</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
 
 </resources>
